@@ -1,5 +1,7 @@
 # hackerrank_solutions
 
+My Profile: https://www.hackerrank.com/yeungbur
+
 A place to store my SQL solutions to practice problems from HackerRank!
 
 https://www.hackerrank.com/domains/sql
