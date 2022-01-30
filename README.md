@@ -1,8 +1,10 @@
 # hackerrank_solutions
 
-A place to store my SQL solutions to practice problems from HackerRank
+A place to store my SQL solutions to practice problems from HackerRank!
 
-https://www.hackerrank.com/domains/sql!
+https://www.hackerrank.com/domains/sql
+
+### Basic Select
 
 | # | Title | My Solution |
 | --- | --- |  --- |
