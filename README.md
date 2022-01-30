@@ -4,7 +4,7 @@ A place to store my SQL solutions to practice problems from HackerRank!
 
 https://www.hackerrank.com/domains/sql
 
-### Basic Select
+### Basic Select Problems
 
 | # | Title | My Solution |
 | --- | --- |  --- |
