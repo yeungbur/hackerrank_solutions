@@ -16,3 +16,4 @@ https://www.hackerrank.com/domains/sql
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [SQL](basic_select/revising_the_select_query_ii.sql)
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [SQL](basic_select/select_all.sql)
 | 4 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [SQL](basic_select/japanese_cities_attributes.sql)
+| 5 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [SQL](basic_select/japanese_cities_names.sql)
