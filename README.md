@@ -22,3 +22,4 @@ https://www.hackerrank.com/domains/sql
 | 8 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [SQL](basic_select/weather_observation_station_4.sql)
 | 9 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true) | [SQL](basic_select/weather_observation_station_5.sql)
 | 10 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [SQL](basic_select/weather_observation_station_6.sql)
+| 11 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [SQL](basic_select/weather_observation_station_7.sql)
